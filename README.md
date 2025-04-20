@@ -121,7 +121,7 @@ Now `shadcn/ui` will be available for use with beautifully pre-built components.
 
 ## 🎉 Done! You Can Now:
 
-- Use `@/components/Button` and similar aliases
+- Use `@/components/Button` and similar aliases (any shadcn component)
     
 - Use Tailwind utilities
     
