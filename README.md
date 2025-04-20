@@ -49,11 +49,6 @@ Open `src/index.css`, **remove everything** and replace with:
 @import "tailwindcss";
 ```
 
-If needed, also import `tw-animate-css` like:
-
-```css
-@import "tw-animate-css";
-```
 
 ---
 
